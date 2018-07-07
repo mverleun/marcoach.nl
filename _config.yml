@@ -1,8 +1,8 @@
 # Site settings
 title: MarCoach.nl
 description: Supporting educators
-# baseurl: "/particle" # the subpath of your site, e.g. /blog
-# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "lhttp://192.168.15.9:4081" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Marco Verleun
