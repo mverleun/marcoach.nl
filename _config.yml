@@ -5,3 +5,18 @@ keywords: Linux, IoT, GDPR
 author: Marco
 baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "http://mqtt.marcoach.nl/" # the base hostname & protocol for your site
+
+defaults:
+- scope:
+    path: _posts
+    type: posts
+  values:
+    sectionid: blog
+
+- scope:
+    path: _docs
+    type: docs
+  values:
+    sectionid: docs
+    seo:
+      type: "WebPage"
