@@ -6,7 +6,7 @@
 #  url: "/getting-started/"
 #  side: left
 
-#- title: "Templates"
+# - title: "Templates"
 #  url: "/design/"
 #  side: left
 #  dropdown:
@@ -31,7 +31,7 @@
 #  - title: "Portfolio"
 #    url: "/design/portfolio/"
 
-#- title: "Header Styles"
+# - title: "Header Styles"
 #  url: "/headers/"
 #  side: left
 #  dropdown:
@@ -50,7 +50,7 @@
 #  - title: "No Header but Image"
 #    url: "/design/no-header-but-image/"
 
-#- title: Documentation
+# - title: Documentation
 #  url: "/documentation/"
 #  side: left
 #  dropdown:
@@ -59,7 +59,7 @@
 #  - title: "Roadmap"
 #    url: "/roadmap/"
 
-#- title: Blog
+# - title: Blog
 #  url: "/blog/"
 #  side: left
 #  dropdown:
