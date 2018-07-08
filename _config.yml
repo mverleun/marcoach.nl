@@ -1,62 +1,65 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-
 # Site settings
 title: MarCoach
-email: marco@marcoach.nl
-description: > # this means to ignore newlines until "baseurl:"
-  MarCoach is supporting public and private educators, schools and universities to deliver
-  excellence to their users.
-  
-  
+description: "Supporting public and private educators, schools and universities."
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "http://mqtt.marcoach.nl" # the base hostname & protocol for your site
+url: "http://mqtt.marcoach.nl/" # the name of your domain
+logo_url: svg/min/logo.svg
 
-#sidebar
-default-image: webjeda-logo-big.jpg # If there is no featured image in a post then this image will be showed. Also on all pages this image will be showed. Use a 500x250 image.
+# Hero
+hero: 
+    hero_img: hero.jpg
+    hero_title: DentistSmile
+    hero_description: A responsive Jekyll theme for dental clinics.
 
-#footer
+# Contact form
+api_token: # Enter API token here
 
-built-by: webjeda
+# Contact info
+contact:
+    phone: 932 50 540
+    emergency: 931 53 234
+    email: contact@yoursite.com
+    address: Von schroeders 273, <br> Viña del mar - Chile
 
-copyright:
-   name: webjeda
-   link: 'http://blog.webjeda.com'
+# Opening hours
+monday_friday: 9:00 – 18:00
+saturday: 10:00 – 17:00
+sunday: 10:00 – 15:00
+
+# Testimonials
+testimonials:
+    testimonials_img: parallax.jpg
+
+# Map
+map:
+    zoom: 17
+    address: Von schroeders 273, Viña del mar, Chile
+    address_details: svg/min/logo.svg
+
+# Social settings
+facebook: http://facebook.com
+twitter: http://twitter.com
+instagram: http://instagram.com
+youtube: http://youtube.com
+skype: skype:obaez_design?userinfo
+feed: yes
+
+# Footer
+copyright: © 2015 DentistSmile - All rights reserved
 
 # Build settings
 markdown: kramdown
-permalink: /:title/
-paginate: 6
-paginate_path: /page:num/
 
-# Tracker
-#analytics: UA-83979019-1
+exclude: [
+    package.json,
+    Gruntfile.js,
+    node_modules,
+    .sass-cache,
+    Gemfile,
+    Gemfile.lock,
+    .gitignore
+]
 
-# Comments
-#disqus: yes
-#disqus-shortname: webjeda-demo
-
-#social
-facebook: http://facebook.com/webjeda
-quora: http://quora.com/sharathdt
-twitter: http://twitter.com/@webjeda
-github: http://github.com/webjeda
-email: hello@webjeda.com
-
-#facebook like box
-fb-like-box: yes
-fb-app-id: 549480635219583
-fb-page-url: https://www.facebook.com/webjeda/
-fb-page-title: webjeda
-
-# Sass style
-sass:
-  style: compressed
-
-# Ruby Gems
-plugins: [jekyll-paginate, jekyll-seo-tag]
-
+# Theme Settings
+analytics: 
+google_verification:
