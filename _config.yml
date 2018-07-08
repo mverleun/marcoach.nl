@@ -10,7 +10,7 @@ title: MarCoach
 email: marco@marcoach.nl
 description: > # this means to ignore newlines until "baseurl:"
   MarCoach is supporting public and private educators, schools and universities to deliver
-  excellence to their users
+  excellence to their users.
   
   
 baseurl: "/" # the subpath of your site, e.g. /blog
@@ -34,11 +34,11 @@ paginate: 6
 paginate_path: /page:num/
 
 # Tracker
-analytics: UA-83979019-1
+#analytics: UA-83979019-1
 
 # Comments
-disqus: yes
-disqus-shortname: webjeda-demo
+#disqus: yes
+#disqus-shortname: webjeda-demo
 
 #social
 facebook: http://facebook.com/webjeda
