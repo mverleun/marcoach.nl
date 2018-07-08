@@ -45,10 +45,10 @@ urlimg: 'https://phlow.github.io/feeling-responsive/images/'
 logo: "logo.png"
 
 # Gems
-gems:
-    - jekyll-asciidoc
-    - jekyll-gist
-    - jekyll-paginate
+#gems:
+#    - jekyll-asciidoc
+#    - jekyll-gist
+#   - jekyll-paginate
 
 
 #       ____              _             __  _
