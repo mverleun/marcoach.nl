@@ -6,6 +6,22 @@ author: Marco
 baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "http://mqtt.marcoach.nl/" # the base hostname & protocol for your site
 
+markdown: kramdown
+highlighter: rouge
+gems:
+  - jekyll-feed
+  - jekyll-redirect-from
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - .idea/
+  - .gitignore
+  - README.md
+timezone: Europe/Amsterdam
+
 defaults:
 - scope:
     path: _posts
