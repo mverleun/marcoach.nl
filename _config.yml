@@ -9,16 +9,17 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
 # User setting
-owner:
-email:
+owner: MarCoach
+email: marco@marcoach.nl
 facebook_username:
 twitter_username:
-github_username:
+github_username: mverleun
 address:
-  - line:
-  - line:
+  - line: Pollux 74
+  - line: 3902 TP Veenendaal
+  - line: Netherlands
   # Feel free to add more lines here 
-telephone:
+telephone: 
 copyright:
 
 # API settings
