@@ -1,0 +1,7 @@
+# Site settings
+title: MarCoach
+description: Support for public and private education, schools and universities
+keywords: Modern, Blogging, Fun
+author: Marco Verleun
+baseurl: "/" # the subpath of your site, e.g. /blog/
+url: "http://mqtt.marcoach.nl/" # the base hostname & protocol for your site
