@@ -3,7 +3,7 @@ title:  "macOS, iOS, OS X"
 subtitle: "Gecertificeerd Apple Trainer"
 author: "Marco Verleun"
 avatar: "img/authors/wferr.png"
-image: "img/apple.jpg"
+image: "img/Apple.jpg"
 date:   2018-06-01 12:12:12
 permalink: "apple"
 tags: "landingpage"
