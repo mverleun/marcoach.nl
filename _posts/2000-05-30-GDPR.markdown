@@ -14,5 +14,5 @@ Het lijkt misschien een beetje vreemd om hier iets te lezen over de AVG. Maar de
 
 Voor mij is de link tussen techniek en privacy een logische. "Privacy by design" en "data minimalisatie" zijn twee elementen die in de context van IoT ook erg belangrijk zijn.
 
-Daarom ben ik me gaan verdiepen in de AVG en werk ik samen met [AVG Onderwijs](http://www.avg-onderwijs.nl) om onderwijsinstellingen te helpen met de invoering en de uitvoering van de AVG.
+Daarom ben ik me gaan verdiepen in de AVG en werk ik samen met [AVG Onderwijs](http://www.avgonderwijs.nl) om onderwijsinstellingen te helpen met de invoering en de uitvoering van de AVG.
 Vanuit dit samenwerkingsverband kunnen we onderwijsinstellingen helpen met de invoering van de AVG, medewerkers opleiden en nog veel meer.
