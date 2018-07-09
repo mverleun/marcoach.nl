@@ -3,7 +3,7 @@ title:  "Nieuws"
 subtitle: "Stop de persen"
 author: "Marco Verleun"
 avatar: "img/authors/wferr.png"
-image: "img/contact.jpg"
+image: "img/news.png"
 date:   2018-06-01 12:12:12
 permalink: "/nieuws"
 tags: "landingpage"
@@ -12,7 +12,7 @@ tags: "landingpage"
 ### Nieuws
 Altijd leuk om iets nieuws te horen nietwaar?
 
-[Planes are cool]({{ site.baseurl }}{% post_url 2015-04-20-planes %})
+[Planes are cool]({{ site.url }}{% post_url 2015-04-20-planes %})
 
 [City Nights]({{ site.baseurl }}{% post_url 2015-04-21-city-nights %})
 

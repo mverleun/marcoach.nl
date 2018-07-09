@@ -3,7 +3,7 @@ title: MarCoach
 description: Supporting public and private education, schools and universities
 keywords: Linux, IoT, GDPR
 author: Marco
-baseurl: "/" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://mqtt.marcoach.nl/" # the base hostname & protocol for your site
 
 markdown: kramdown
