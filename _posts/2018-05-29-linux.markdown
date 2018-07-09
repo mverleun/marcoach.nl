@@ -6,7 +6,7 @@ avatar: "img/authors/wferr.png"
 image: "img/tux.png"
 date:   2018-06-01 12:12:12
 permalink: "linux"
-page.tags: "landingpage"
+tags: "landingpage"
 ---
 
 ### Linux
