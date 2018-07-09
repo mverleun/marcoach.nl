@@ -8,7 +8,7 @@ url: "https://mqtt.marcoach.nl/" # the base hostname & protocol for your site
 
 markdown: kramdown
 highlighter: rouge
-gems:
+plugins:
   - jekyll-feed
   - jekyll-redirect-from
   - jekyll-seo-tag
