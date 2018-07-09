@@ -12,7 +12,7 @@ author: Marco Verleun
 ### Contact gegevens
 
 Als u wilt weten hoe ik u kan helpen dan nodig ik u uit om contact met mij op te
-nemen. U kunt een email sturen naar marco\@marcoach.nl of bellen met 06-44 55 22
+nemen. U kunt een email sturen naar marco@marcoach.nl of bellen met 06-44 55 22
 70.
 
 ### Bedrijfsinformatie
@@ -21,7 +21,7 @@ MarCoach
 Pollux 74  
 3902 TP Veenendaal  
 Netherlands  
-Email: \<info\@marcoach.nl\>  
+Email: info@marcoach.nl  
 Tel: 0644 552270  
 KVK: 54438519 0000  
 BTW: NL-1919.80.882B02
