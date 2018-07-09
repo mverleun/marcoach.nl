@@ -1,0 +1,22 @@
+---
+title:  "macOS, iOS, OS X"
+subtitle: "Gecertificeerd Apple Trainer"
+author: "Marco Verleun"
+avatar: "img/authors/wferr.png"
+image: "img/apple.jpg"
+date:   2018-06-01 12:12:12
+permalink: "apple"
+tags: "landingpage"
+---
+
+### macOS
+Sinds Apple OS X 10.6 heeft uitgebracht ben ik gecertificeerd als trainer voor OS X, inmiddels hernoemd naar macOS.
+Naast de certificerende opleidingen van Apple kan ik ook helpen met cross-over trainingen voor medewerkers die Mac gebruikers moeten ondersteunen.
+
+### iOS
+Ook iOS is een onderwerp waarover boeiende trainingen te geven zijn. Met name voor beheerders die met MDM oplossingen werken is het erg leerzaam om meer te weten over de mogelijkheden die er zijn.
+
+### VPP
+Is een programma van Apple waarmee op een eenvoudige manier centraal Apps aangekocht kunnen worden die (tijdelijk) in licentie worden gegeven aan medewerkers. De licenties kunnen worden ingetrokken en weer worden doorgegeven aan andere medewerkers. 
+Op deze manier kun je als organisatie je investeringen minimaliseren.
+Daarnaast heeft het ook nog een aantal andere voordelen waarover ik graag meer vertel.
