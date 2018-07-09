@@ -5,6 +5,7 @@ author: "Marco Verleun"
 avatar: "img/authors/wferr.png"
 image: "img/gdpr.jpg"
 date:   2018-06-01 12:12:12
+permalink: "avg"
 tags: "landingpage"
 ---
 

@@ -5,6 +5,8 @@ author: "Marco Verleun"
 avatar: "img/authors/wferr.png"
 image: "img/contact.jpg"
 date:   2018-06-01 12:12:12
+permalink: "/contact"
+tags: "frontpage"
 ---
 
 ### Contact information
