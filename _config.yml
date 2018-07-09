@@ -1,10 +1,10 @@
 # Site settings
 title: MarCoach
 description: Supporting public and private education, schools and universities
-keywords: Linux, IoT, GDPR
+keywords: Linux, IoT, GDPR, AVG
 author: Marco
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://mqtt.marcoach.nl/" # the base hostname & protocol for your site
+url: "https://mqtt.marcoach.nl/" # the base hostname & protocol for your site
 
 markdown: kramdown
 highlighter: rouge
@@ -22,17 +22,17 @@ exclude:
   - README.md
 timezone: Europe/Amsterdam
 
-defaults:
-- scope:
-    path: _posts
-    type: posts
-  values:
-    sectionid: blog
+#defaults:
+#- scope:
+#    path: _posts
+#    type: posts
+#  values:
+#    sectionid: blog
 
-- scope:
-    path: _docs
-    type: docs
-  values:
-    sectionid: docs
-    seo:
-      type: "WebPage"
+#- scope:
+#    path: _docs
+#    type: docs
+#  values:
+#    sectionid: docs
+#    seo:
+#      type: "WebPage"
