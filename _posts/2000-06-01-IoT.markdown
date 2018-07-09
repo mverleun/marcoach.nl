@@ -13,6 +13,10 @@ tags: "landingpage"
 IoT is overal. En overal worden IoT workshops verzorgd. Vaak is dan al voorkennis vereist omdat er geprogrammeerd moet worden en beperkt het zich tot het op afstand uitlezen van een temperatuur sensor.
 
 IoT is iets waar iedereen mee te maken krijgt en het is veel omvattend. Daarom ben ik begonnen met een initiatief voor het onderwijs waarbij IoT iets wordt dat voor iedereen toegankelijk is. Ik heb het "IoT for Education" genoemd en er een [website](https://www.iot-kit.nl) voor gemaakt.
-Voor niet techneuten wordt hiermee het concept achter IoT duidelijk. Voor techneuten is het mogelijk om low level verder te ontwikkelen.
 
-Dat wil niet zeggen dat deze workshop niet interessant is voor bedrijven. In tegendeel. Voor bedrijven is het vaak inspirend om te ervaren hoe eenvoudig het kan zijn om IoT oplossingen te bedenken.
+Tijdens de workshops werken de cursisten met microcontrollers, een gateway controller en een (private) cloud. Hiermee worden alle aspecten van IoT inzichtelijk gemaakt.
+
+Voor niet techneuten is het toegankelijk omdat programmeren geen vereiste is om resultaten te behalen. Voor techneuten is het mogelijk om low level verder te ontwikkelen en de programmatuur aan te passen.
+
+## Inspiratie sessies
+Ik verzorg met enige regelmaat ook inspiratie sessies op het gebied van IoT, vaak voorafgaande aan een Hackathon of Makathon. Zie ook [YouTube](https://youtu.be/OJQ9Qjl1l0A), je moet doorspoelen naar 1:45 minuten.
