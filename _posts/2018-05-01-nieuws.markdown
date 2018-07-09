@@ -10,7 +10,9 @@ tags: "landingpage"
 ---
 
 ### Nieuws
-[Planes are cool]{{ site.baseurl }}{% post_url 2015-04-20-planes %}
+Altijd leuk om iets nieuws te horen nietwaar?
 
-[City Nights]{{ site.baseurl }}{% post_url 2015-04-21-city-nights %}
+[Planes are cool]({{ site.baseurl }}{% post_url 2015-04-20-planes %})
+
+[City Nights]({{ site.baseurl }}{% post_url 2015-04-21-city-nights %})
 
