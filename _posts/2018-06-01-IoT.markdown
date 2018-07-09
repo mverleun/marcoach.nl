@@ -5,6 +5,7 @@ author: "Marco Verleun"
 avatar: "img/authors/wferr.png"
 image: "img/iot.jpg"
 date:   2018-06-01 12:12:12
+tags: "landingpage"
 ---
 
 ### IoT
