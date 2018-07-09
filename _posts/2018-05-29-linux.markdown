@@ -1,11 +1,12 @@
 ---
 title:  "Linux"
-subtitle: "Linux is everywhere"
+subtitle: "Van telefoon tot datacenter"
 author: "Marco Verleun"
 avatar: "img/authors/wferr.png"
 image: "img/tux.png"
 date:   2018-06-01 12:12:12
-permalink: "#/linux"
+permalink: "linux"
+page.tags: "landingpage"
 ---
 
 ### Linux
