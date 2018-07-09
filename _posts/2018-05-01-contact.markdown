@@ -1,15 +1,15 @@
 ---
-title:  "Contact information"
-subtitle: "Let's get in touch"
+title:  "Contact gegevens"
+subtitle: "Ik hoor graag van u"
 author: "Marco Verleun"
 avatar: "img/authors/wferr.png"
 image: "img/contact.jpg"
 date:   2018-06-01 12:12:12
 permalink: "/contact"
-tags: "frontpage"
+tags: "landingpage"
 ---
 
-### Contact information
+### Contact gegevens
 Als u wilt weten hoe ik u kan helpen dan nodig ik u uit om contact met mij op te nemen.
 U kunt een email sturen naar marco@marcoach.nl of bellen met 06-44 55 22 70.
 

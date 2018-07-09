@@ -1,6 +1,6 @@
 ---
 title:  "Linux"
-subtitle: "Van telefoon tot datacenter"
+subtitle: "Van introductie tot LPIC en RedHat certificering"
 author: "Marco Verleun"
 avatar: "img/authors/wferr.png"
 image: "img/tux.png"
