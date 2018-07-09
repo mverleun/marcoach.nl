@@ -14,14 +14,15 @@ Al jaren lang ben ik als trainer en consultant actief met Linux bezig.
 Linux is werkelijk overal, maar voor de meeste consumenten en gebruikers is het onzichtbaar. Bijna de gehele cloud bestaat uit Linux computers, maar ook veel aparaten in huis, zoals media players, TV's etc. draaien op Linux.
 
 ### LPI
-Namens [LPI](http://www.lpi.org) en Stichting NASC vertegenwoordig ik LPI in de Benelux. Bij grote evenementen neem ik daar examens af namens LPI.
+Namens [LPI](http://www.lpi.org) en [NASC](http://www.nasc.nl) vertegenwoordig ik LPI in de Benelux. Bij grote evenementen neem ik daar examens af namens LPI.
 
-Voor opleiders ben ik degene die inhoud geeft aan hun Linux portfolio. Daar verzorg ik de LPI-101, LPI-102, LPI-201 en LPI-202 opleidingen voor het LPI programma.
+Voor opleiders ben ik degene die inhoud geeft aan hun Linux portfolio. Daar verzorg ik de LPI-101, LPI-102, LPI-201 en LPI-202 opleidingen voor het LPI programma. Ook train ik docenten die zich willen certificeren voor LPI Essentials of LPIC-1. 
 
-Namens NASC leid ik ook docenten op zodat zij met actuele kennis les kunnen geven aan de toekomstige generaties.
+Namens [NASC](http://www.nasc.nl) leid ik ook docenten op zodat zij met actuele kennis les kunnen geven aan de toekomstige generaties.
 
 ### RedHat
 RHCSA en RHCE opleidingen verzorg ik ook, zowel voor opleiders als voor docenten.
+Voor scholen die zijn aangesloten bij NASC verzorg ik de ondersteuning bij de RedHat Academy.
 
 ### Docker
 Veel organisaties zijn de laatste jaren op een andere manier gaan werken. DevOps heeft zijn intrede gedaan en nu overwegen deze organisaties de volgende stap: Het inzetten van containers.
