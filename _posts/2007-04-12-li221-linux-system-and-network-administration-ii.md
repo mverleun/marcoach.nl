@@ -25,6 +25,7 @@ xyz_fbap:
   - "1"
 categories:
   - Training Portfolio
+tags: news
 ---
 <div class="csc-header csc-header-n4">
   <h1 class="kopfZeile1">
