@@ -92,15 +92,8 @@ layout: compress
         <div class="pattern pattern--hidden"></div>
         <!-- cards -->
         <div class="wrapper">
-            {% for post in site.posts %}
-            <p>
-              {{ post.id }} {{ post.categories }}
-            </p>
-            <!--
-              {% if post.categories == "MarCoach news" %}
-              {{ post.hits }}
-            -->
-                <div class="card" data-id="{{ post.id }}">
+            {% for post in site.tags.landingpage %}
+            <div class="card" data-id="{{ post.id }}">
                 <div class="card__container card__container--closed">
                     <svg class="card__image" xmlns="http://www.w3.org/2000/svg"
                          xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1920 1200"
@@ -110,11 +103,9 @@ layout: compress
                                 <polygon class="clip" points="0,1200 0,0 1920,0 1920,1200"></polygon>
                             </clipPath>
                         </defs>
-
                         <image clip-path="url(#{{ post.id }}-clip-path)" width="1920" height="1200"
                                xlink:href="{{ post.image }}"></image>
-
-                      </svg>
+                    </svg>
                     <div class="card__content">
                         <i class="card__btn-close fa fa-times"></i>
                         <div class="card__caption">
@@ -125,16 +116,12 @@ layout: compress
                             {{ post.content }}
                         </div>
                     </div>
-                  </div>
                 </div>
-              <!--
-              {% endif %}
-            -->
+            </div>
             {% endfor %}
             <!-- /cards -->
         </div>
     </div>
-
     <!-- /container -->
 </div>
 <!-- JS -->
