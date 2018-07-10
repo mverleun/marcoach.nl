@@ -93,6 +93,9 @@ layout: compress
         <!-- cards -->
         <div class="wrapper">
             {% for post in site.posts %}
+            <p>
+              {{ post.id }} {{ post.categories }}
+            </p>
               {% if post.categories contains M %}
                 <div class="card" data-id="{{ post.id }}">
                 <div class="card__container card__container--closed">
