@@ -96,8 +96,10 @@ layout: compress
             <p>
               {{ post.id }} {{ post.categories }}
             </p>
+            <!--
               {% if post.categories == "MarCoach news" %}
               {{ post.hits }}
+            -->
                 <div class="card" data-id="{{ post.id }}">
                 <div class="card__container card__container--closed">
                     <svg class="card__image" xmlns="http://www.w3.org/2000/svg"
@@ -125,7 +127,9 @@ layout: compress
                     </div>
                   </div>
                 </div>
+              <!--
               {% endif %}
+            -->
             {% endfor %}
             <!-- /cards -->
         </div>
