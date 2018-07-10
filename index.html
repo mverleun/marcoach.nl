@@ -94,7 +94,7 @@ layout: compress
         <div class="wrapper">
             {% for post in site.posts %}
             {{ post.categories }}
-                {% if post.categories contains "news" %}
+                {% if post.categories contains 'MarCoach news' %}
             <div class="card" data-id="{{ post.id }}">
                 <div class="card__container card__container--closed">
                     <svg class="card__image" xmlns="http://www.w3.org/2000/svg"
