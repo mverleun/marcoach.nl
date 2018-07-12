@@ -37,8 +37,8 @@ layout: compress
             <a href="#"><i class="fa fa-facebook-square fa-3x"></i></a>
             <a href="#"><i class="fa fa-tumblr-square fa-3x"></i></a>
         </nav>
--->
     </header>
+-->
     <div class="content">
         <!-- trianglify pattern container -->
         <div class="pattern pattern--hidden"></div>
@@ -71,27 +71,11 @@ layout: compress
                 </div>
             </div>
             {% endfor %}
-            <!-- /cards -->
-        </div>
-    </div>
-
-    <header class="header">
-        <h1>Nieuws<span>Overzicht van alle posts</span></h1>
-<!--
-        <nav class="links">
-            <a href="#"><i class="fa fa-twitter-square fa-3x"></i></a>
-            <a href="#"><i class="fa fa-instagram fa-3x"></i></a>
-            <a href="#"><i class="fa fa-facebook-square fa-3x"></i></a>
-            <a href="#"><i class="fa fa-tumblr-square fa-3x"></i></a>
-        </nav>
--->
-    </header>
     <!-- NEWS -->
-    <div class="content">
-        <!-- trianglify pattern container -->
-        <div class="pattern pattern--hidden"></div>
-        <!-- cards -->
-        <div class="wrapper">
+            <header class="header">
+                <h1>Nieuws<span>Overzicht van alle posts</span></h1>
+            </header>
+
             {% for post in site.posts %}
                 {% if post.categories contains 'MarCoach news' %}
                 <div class="card" data-id="{{ post.id }}">
