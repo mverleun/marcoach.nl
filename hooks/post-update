@@ -1,4 +1,5 @@
 #!/bin/sh
+wall Hook activated
 unset GIT_DIR
 cd /docker/marcoach.nl/site/
 git pull
