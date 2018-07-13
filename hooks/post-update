@@ -1,2 +1,7 @@
 #!/bin/sh
-unset GIT_DIR && cd /docker/marcoach.nl/site/ && git pull
+unset GIT_DIR
+cd /docker/marcoach.nl/site/
+git pull
+
+cd /docker/marcoach.nl
+docker-compose exec jekyll-marcoach jekyll build
