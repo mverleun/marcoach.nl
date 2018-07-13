@@ -1,2 +1,4 @@
-
+.DS_store
 pages/.DS_Store
+_site/*
+docker-compose.yml
